@@ -2,7 +2,7 @@
 useSeoMeta({
   title: 'KS Partners Day 2026, Москва',
   description:
-    'One quiet day a year, we gather the people who build on our platform. March 19, 2026 — Copenhagen. 180 seats, one stage, four labs.',
+    'Официальная страница мероприятия KS Partners Day 2026.',
 })
 </script>
 
