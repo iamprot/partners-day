@@ -18,7 +18,7 @@ export const timeline: TimelineSession[] = [
     description: 'Регистрация и неформальное общение.',
     speaker: { initials: 'PC', name: 'Partner Crew', role: 'Front of house' },
     location: 'Main Foyer',
-    ics: { title: 'Partners Day - Arrival and slow coffee', start: '20260319T090000', end: '20260319T100000', location: 'Studio Hall, Refshalevej 163, Copenhagen' },
+    ics: { title: 'Partners Day - Arrival and slow coffee', start: '20260319T090000', end: '20260319T100000', location: 'Локация, Москва' },
   },
   {
     id: 'keynote',
@@ -28,7 +28,7 @@ export const timeline: TimelineSession[] = [
     description: 'Планы на 2027 год, перспективные направления для развития бизнеса, взгляд партнеров на рынок и новые возможности взаимодействия с Knowledge Space.',
     speaker: { initials: 'ME', name: 'Mara Ellingsen', role: 'Chief Technology Officer' },
     location: 'Main Hall',
-    ics: { title: 'Partners Day - Opening keynote', start: '20260319T100000', end: '20260319T111500', location: 'Main Hall, Refshalevej 163, Copenhagen' },
+    ics: { title: 'Partners Day - Opening keynote', start: '20260319T100000', end: '20260319T111500', location: 'Локация, Москва' },
   },
   {
     id: 'partner-track',
@@ -38,7 +38,7 @@ export const timeline: TimelineSession[] = [
     description: 'Время для общения и обмена опытом.',
     speaker: { initials: 'JR', name: 'Jonas Reventlow', role: 'VP Alliances' },
     location: 'Studio B',
-    ics: { title: 'Partners Day - Partner track', start: '20260319T113000', end: '20260319T124500', location: 'Studio B, Refshalevej 163, Copenhagen' },
+    ics: { title: 'Partners Day - Partner track', start: '20260319T113000', end: '20260319T124500', location: 'Локация, Москва' },
   },
   {
     id: 'lunch',
@@ -48,7 +48,7 @@ export const timeline: TimelineSession[] = [
     description: 'Реальный опыт партнеров и KS: что работает, где возникают риски и какой может быть эффективная модель совместной реализации проектов.',
     speaker: { initials: 'PC', name: 'Partner Crew', role: 'Hosts' },
     location: 'The Atrium',
-    ics: { title: 'Partners Day - Long-table lunch', start: '20260319T130000', end: '20260319T141500', location: 'The Atrium, Refshalevej 163, Copenhagen' },
+    ics: { title: 'Partners Day - Long-table lunch', start: '20260319T130000', end: '20260319T141500', location: 'Локация, Москва' },
   },
   {
     id: 'labs',
@@ -58,7 +58,7 @@ export const timeline: TimelineSession[] = [
     description: 'Как искусственный интеллект меняет разработку и реализацию корпоративных решений, какие роли появляются у интегратора и где возникают новые источники ценности.',
     speaker: { initials: 'PS', name: 'Priya Sundaram', role: 'Developer Relations Lead' },
     location: 'Labs 1–4',
-    ics: { title: 'Partners Day - Hands-on labs', start: '20260319T143000', end: '20260319T160000', location: 'Labs 1-4, Refshalevej 163, Copenhagen' },
+    ics: { title: 'Partners Day - Hands-on labs', start: '20260319T143000', end: '20260319T160000', location: 'Локация, Москва' },
   },
   {
     id: 'ama',
@@ -68,7 +68,7 @@ export const timeline: TimelineSession[] = [
     description: 'Интерактивная работа с практической бизнес-задачей, обмен подходами и подведение итогов дня.',
     speaker: { initials: 'PL', name: 'Product leadership', role: 'Panel' },
     location: 'Main Hall',
-    ics: { title: 'Partners Day - Roadmap AMA', start: '20260319T161500', end: '20260319T171500', location: 'Main Hall, Refshalevej 163, Copenhagen' },
+    ics: { title: 'Partners Day - Roadmap AMA', start: '20260319T161500', end: '20260319T171500', location: 'Локация, Москва' },
   },
   {
     id: 'dinner',
@@ -78,7 +78,7 @@ export const timeline: TimelineSession[] = [
     description: 'Продолжим разговор в более свободной обстановке.',
     speaker: { initials: 'HT', name: 'Host team', role: 'Your evening guides' },
     location: 'Restaurant Lior, Refshaleøen',
-    ics: { title: 'Partners Day - Dinner at the harbour', start: '20260319T180000', end: '20260319T230000', location: 'Restaurant Lior, Refshaleoen, Copenhagen' },
+    ics: { title: 'Partners Day - Dinner at the harbour', start: '20260319T180000', end: '20260319T230000', location: 'Локация, Москва' },
   },
 ]
 
