@@ -12,9 +12,9 @@
     <div class="wrap relative z-2">
       <p v-reveal class="mb-7 text-[0.74rem] font-bold uppercase tracking-[0.22em] text-canvas/70">Слово организатора</p>
       <blockquote v-reveal="100" class="max-w-[24ch] text-balance font-display text-[clamp(1.75rem,4.2vw,3rem)] font-medium leading-tight tracking-[-0.015em] text-canvas">
-        “Мы считаем, что лучшие технологии подобны спокойной воде — глубокой, прозрачной и тихой. KS Partners Day — это тот день в году, когда мы вместе обращаем на это внимание.”
+        “Сильная партнерская экосистема строится там, где вендор и партнер понимают цели друг друга, открыто обсуждают сложности и вместе создают новые точки роста.”
       </blockquote>
-      <p v-reveal="180" class="mt-8 text-[0.95rem] text-canvas/70"> Фамилия Имя — ДОЛЖНОСТЬ &amp; host</p>
+      <p v-reveal="180" class="mt-8 text-[0.95rem] text-canvas/70"> Филипп Ковригин — Директор по работе с партнерами</p>
     </div>
   </section>
 </template>
