@@ -44,15 +44,14 @@ onUnmounted(() => cleanups.forEach((fn) => fn()))
     class="pointer-events-none absolute right-[clamp(-180px,-8vw,-30px)] top-1/2 z-1 aspect-square w-[min(56vw,800px)] -translate-y-1/2 max-lg:right-[-52vw] max-lg:top-[36%] max-lg:w-[135vw] max-lg:translate-y-0 max-lg:opacity-55"
   >
     <div ref="drift" class="absolute inset-0">
-      <!-- one breath every four seconds -->
       <div class="absolute inset-0 animate-breathe">
-        <span class="absolute left-[6%] top-[12%] h-[52%] w-[52%] rounded-full bg-primary opacity-50 blur-[60px]" />
+        <span class="absolute left-[6%] top-[12%] h-[52%] w-[52%] rounded-full bg-[#37B8F9] opacity-50 blur-[60px]" />
         <span class="absolute right-[3%] top-[2%] h-[44%] w-[44%] rounded-full bg-accent opacity-45 blur-3xl" />
         <span class="absolute bottom-[5%] left-[26%] h-[40%] w-[40%] rounded-full bg-[#8f7bff] opacity-50 blur-[56px]" />
-        <span class="absolute bottom-[18%] right-[16%] h-[26%] w-[26%] rounded-full bg-[#d9d2ff] opacity-85 blur-[38px]" />
+        <span class="absolute bottom-[18%] right-[16%] h-[26%] w-[26%] rounded-full bg-[#37BCF9] opacity-85 blur-[38px]" />
 
-<span class="absolute left-1/2 top-1/2 aspect-square w-[36%] -translate-x-1/2 -translate-y-1/2 animate-ripple rounded-full border border-primary/35 opacity-0" />
-<span class="absolute left-1/2 top-1/2 aspect-square w-[36%] -translate-x-1/2 -translate-y-1/2 animate-ripple-late rounded-full border border-primary/35 opacity-0" />
+        <span class="absolute left-1/2 top-1/2 aspect-square w-[36%] -translate-x-1/2 -translate-y-1/2 animate-ripple rounded-full border border-primary/35 opacity-0" />
+        <span class="absolute left-1/2 top-1/2 aspect-square w-[36%] -translate-x-1/2 -translate-y-1/2 animate-ripple-late rounded-full border border-primary/35 opacity-0" />
 
         <span class="absolute inset-[5%] animate-orbit rounded-full border border-primary/25 before:absolute before:left-[calc(50%-3.5px)] before:top-[-3.5px] before:size-1.75 before:rounded-full before:bg-accent" />
         <span class="absolute inset-[19%] animate-orbit-rev rounded-full border border-accent/20 before:absolute before:left-[calc(50%-3.5px)] before:top-[-3.5px] before:size-1.75 before:rounded-full before:bg-accent" />
