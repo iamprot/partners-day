@@ -18,5 +18,6 @@ useSeoMeta({
     <ContactSection />
     <SiteFooter />
     <AppToast />
+    <CalendatButton />
   </main>
 </template>

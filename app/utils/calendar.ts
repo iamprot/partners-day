@@ -32,3 +32,10 @@ export function downloadICS(ev: IcsEvent) {
   a.remove()
   setTimeout(() => URL.revokeObjectURL(url), 3000)
 }
+
+export const fullDay = {
+    title: "KS Partners Day 2026",
+    start: "20261127T103000",
+    end: "20261127T180000",
+    location: "Офис AXENIX\, Павелецкая площадь\ ,2/2\, Future Camp\, 8 этаж",
+};

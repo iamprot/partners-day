@@ -92,3 +92,4 @@ export const partners = [
   { name: 'Партнер 7', nameClass: 'text-sm font-semibold uppercase tracking-[0.22em]', svg: '<path stroke-linejoin="round" d="M3.5 19L10 6l4 7 2.5-4 4 10z"/>' },
   { name: 'Партнер 8', nameClass: 'text-[1.05rem] font-bold tracking-[-0.01em]', svg: '<circle cx="12" cy="12" r="8"/><circle cx="17.7" cy="6.3" r="1.8" fill="currentColor" stroke="none"/>' },
 ]
+

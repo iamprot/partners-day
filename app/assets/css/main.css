@@ -17,6 +17,8 @@
   --animate-orbit: orbit 46s linear infinite;
   --animate-orbit-rev: orbit 72s linear infinite reverse;
   --animate-orbit-slow: orbit 70s linear infinite;
+  --animate-orbit-dot-1: orbit 10s linear infinite;
+  --animate-orbit-dot-2: orbit 20s linear infinite;
 --animate-ripple: ripple 4s cubic-bezier(0.16, 0.6, 0.4, 1) infinite;
   --animate-ripple-late: ripple 4s cubic-bezier(0.16, 0.6, 0.4, 1) 2s infinite;
   --animate-drop: drop 2.2s ease-in-out infinite;

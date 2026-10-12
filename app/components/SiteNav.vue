@@ -22,7 +22,7 @@ onBeforeUnmount(() => window.removeEventListener('scroll', onScroll))
     class="fixed inset-x-0 top-0 z-70 flex items-center justify-between gap-5 border-b px-[clamp(20px,4vw,44px)] transition-[padding,background-color,border-color] duration-300 ease-soft"
     :class="scrolled ? 'border-hairline bg-canvas/80 py-3 backdrop-blur-[14px]' : 'border-transparent py-5'"
   >
-    <a href="#top" class="flex items-center gap-2.75">
+    <a href="#" class="flex items-center gap-2.75">
       <BrandMark class="h-12" />
     </a>
 

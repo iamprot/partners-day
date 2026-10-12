@@ -25,8 +25,8 @@
       </div>
 
       <div v-reveal="320" class="mt-14 flex flex-wrap gap-7 text-[0.92rem] text-muted">
-        <span class="inline-flex items-center gap-2"><Icon name="lucide:calendar" class="size-4 text-primary" />27 ноября 2026</span>
-        <span class="inline-flex items-center gap-2"><Icon name="lucide:map-pin" class="size-4 text-primary" />Офис &laquo;AXENIX&raquo;, Москва, Павелецкая площадь, 2/2, Future Camp, 8 этаж</span>
+        <span class="inline-flex items-center gap-2"><Icon name="lucide:calendar" class="w-4! h-4! shrink-0  text-primary" />27 ноября 2026</span>
+        <span class="inline-flex items-center gap-2"><Icon name="lucide:map-pin" class="w-4! h-4! shrink-0 text-primary" />Офис &laquo;AXENIX&raquo;, Москва, Павелецкая площадь, 2/2, Future Camp, 8 этаж</span>
       </div>
     </div>
 

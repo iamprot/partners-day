@@ -38,7 +38,7 @@ function onMove(e: MouseEvent) {
   >
     <div
       aria-hidden="true"
-      class="pointer-events-none absolute inset-0 bg-[radial-gradient(480px_circle_at_var(--mx,50%)_var(--my,50%),rgba(68,19,217,0.07),transparent_65%)] opacity-0 transition-opacity duration-500 group-hover/card:opacity-100"
+      class="pointer-events-none absolute inset-0 bg-[radial-gradient(480px_circle_at_var(--mx,50%)_var(--my,50%),rgba(68,19,217,0.1),transparent_65%)] opacity-0 transition-opacity duration-500 group-hover/card:opacity-100"
     />
 
     <DuotoneImage
@@ -63,7 +63,7 @@ function onMove(e: MouseEvent) {
         <span
           v-for="t in tags"
           :key="t"
-          class="rounded-full border border-hairline px-3.25 py-1.5 text-[0.72rem] font-medium text-muted"
+          class="rounded-full border bg-white border-hairline px-3.25 py-1.5 text-[0.72rem] font-medium text-muted"
         >{{ t }}</span>
       </div>
     </div>
