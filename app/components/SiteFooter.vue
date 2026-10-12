@@ -10,7 +10,7 @@ const links = [
 
 <template>
   <footer class="border-t border-hairline pb-8.5 pt-14">
-    <div class="wrap flex flex-wrap items-start justify-between gap-9">
+    <div class="wrap flex flex-wrap items-center justify-between gap-9">
       <div class="flex items-start gap-3.5">
         <BrandMark class="mt-1 h-9" />
         <div>
@@ -19,7 +19,7 @@ const links = [
         </div>
       </div>
 
-      <nav class="flex flex-wrap gap-6">
+      <nav class="flex flex-wrap justify-center md:justify-end gap-6">
         <a
           v-for="l in links"
           :key="l.to"
