@@ -17,7 +17,7 @@ import { partners } from "~/utils/event";
                     рабочей встречей, где можно открыто обсудить планы, опыт и
                     вопросы, которые действительно важны партнерам.
                 </div>
-                <AppButton to="#"
+                <AppButton to="https://forms.yandex.ru/cloud/6ac8fe7449af47806aeb7e94"
                     >Пройти опрос <Icon name="lucide:arrow-right" class="size-4"
                 /></AppButton>
             </div>

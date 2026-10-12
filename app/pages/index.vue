@@ -13,7 +13,7 @@ useSeoMeta({
     <FeatureSection />
     <StatementSection />
     <SurveySection />
-    <PartnersSection />
+    <!-- <PartnersSection /> -->
     <TimelineSection />
     <ContactSection />
     <SiteFooter />

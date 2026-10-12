@@ -1,7 +1,7 @@
 <script setup lang="ts">
 // import { Download, MapPin, Plus } from 'lucide-vue-next'
 import type { TimelineSession } from '~/utils/event'
-import { downloadICS } from '~/utils/calendar';
+// import { downloadICS } from '~/utils/calendar';
 
 defineProps<{ session: TimelineSession; open: boolean }>()
 
@@ -23,7 +23,7 @@ const emit = defineEmits<{ toggle: [] }>()
         :class="open ? 'text-primary' : 'text-muted group-hover/head:text-primary'"
       >{{ session.time }}</span>
 
-      <span class="font-display text-[clamp(1.22rem,2.4vw,1.75rem)] font-medium tracking-[-0.012em] leading-9 transition-colors duration-300 group-hover/head:text-primary">
+      <span class="font-display text-[clamp(1.22rem,2.4vw,1.75rem)] font-medium tracking-[-0.012em] leading-6 md:leading-9 transition-colors duration-300 group-hover/head:text-primary">
         {{ session.title }}
       </span>
 

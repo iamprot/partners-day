@@ -86,7 +86,7 @@ function submit() {
           </div>
         </div>
 
-        <AppButton type="submit" variant="light" class="mt-6">Отправить <Icon name="lucide:arrow-right" class="size-4" /></AppButton>
+        <AppButton type="submit" variant="light" size="md" class="mt-6">Отправить <Icon name="lucide:arrow-right" class="size-4" /></AppButton>
         <p class="mt-4 text-[0.8rem] text-canvas/55">Заявку можно отправить только 1 раз.</p>
       </form>
 
