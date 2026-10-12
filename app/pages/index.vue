@@ -2,7 +2,7 @@
 useSeoMeta({
   title: 'KS Partners Day 2026, Москва',
   description:
-    'Официальная страница мероприятия KS Partners Day 2026.',
+    'Официальная страница мероприятия KS Partners Day 2026, Москва, 27 ноября 2026',
 })
 </script>
 
