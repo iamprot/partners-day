@@ -12,9 +12,9 @@
                     Пройдите опрос
                 </p>
 
-                <div class="text-canvas/80">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur deleniti officia numquam repellat quam odio. Eos!</div>
+                <div class="text-canvas/80">Мы хотим лучше понять ваши ожидания и включить в программу темы, которые действительно важны партнерам.</div>
                 <AppButton to="https://forms.yandex.ru/cloud/6ac8fe7449af47806aeb7e94" variant="light" size="md" class="mt-6"
-                    >Пройди опрос <Icon name="lucide:arrow-right" class="size-4"
+                    >Пройти опрос <Icon name="lucide:arrow-right" class="size-4"
                 /></AppButton>
                 <p class="mt-4 text-[0.8rem] text-canvas/55">
                     После прохождения опроса вы будете автоматически зарегистрированны.
