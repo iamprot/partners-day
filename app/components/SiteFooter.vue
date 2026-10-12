@@ -14,7 +14,7 @@ const links = [
       <div class="flex items-start gap-3.5">
         <BrandMark class="mt-1 h-9" />
         <div>
-          <span class="block max-w-[46ch] text-[0.9rem] text-muted">Российская no-code платформа для интегрированного бизнес-планирования.</span>
+          <span class="block max-w-[46ch] text-[0.9rem] text-muted">Российская no–code платформа для интегрированного бизнес-планирования.</span>
         </div>
       </div>
 
