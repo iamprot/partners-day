@@ -23,10 +23,6 @@ import { partners } from '~/utils/event';
         </div>
       </div>
 
-      <!-- <p v-reveal="100" class="mt-6.5 text-[0.95rem] text-muted">
-        …and 33 more, announced in January.
-        <a href="#contact" class="text-primary underline decoration-1 underline-offset-[3px]">Request the full list</a>
-      </p> -->
     </div>
   </section>
 </template>

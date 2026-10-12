@@ -17,7 +17,6 @@ useSeoMeta({
     <TimelineSection />
     <ContactSection />
     <SiteFooter />
-    <!-- <ChimeButton /> -->
     <AppToast />
   </main>
 </template>
