@@ -4,7 +4,7 @@
 <template>
   <section id="contact" class="scroll-mt-21.5 py-[clamp(96px,13vh,160px)]">
     <div class="wrap">
-      <div v-reveal class="relative overflow-hidden rounded-[34px] bg-primary p-[clamp(12px,4vw,84px)] text-canvas">
+      <div v-reveal class="relative overflow-hidden rounded-[34px] bg-primary p-[clamp(24px,4vw,84px)] text-canvas">
         <span aria-hidden="true" class="absolute -right-37.5 -top-37.5 size-115 animate-orbit-slow rounded-full border border-white/15 before:absolute before:left-1/2 before:-top-1 before:size-2 before:-translate-x-1/2 before:rounded-full before:bg-white/60" />
         <span aria-hidden="true" class="absolute -bottom-47.5 -left-32.5 size-100 rounded-full bg-white/5 blur-md" />
 
