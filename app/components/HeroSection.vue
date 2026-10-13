@@ -11,7 +11,7 @@
     <div class="wrap relative z-2">
       <SectionLabel v-reveal>Встреча партнеров Knowledge Space</SectionLabel>
 
-      <h1 v-reveal="80" class="mb-8.5 font-display text-[clamp(4.2rem,11.5vw,8rem)] font-semibold leading-[0.96] tracking-[-0.035em]">
+      <h1 v-reveal="80" class="mb-8.5 font-display text-[clamp(4.2rem,11.5vw,7rem)] font-semibold leading-[0.96] tracking-[-0.035em]">
         KS Partners<br />Day<span class="ml-[0.2em] inline-block rounded-full bg-primary px-[0.68em] py-[0.3em] align-[0.62em] text-[0.24em] font-semibold tracking-[0.02em] text-canvas">’2026</span>
       </h1>
 
@@ -24,7 +24,7 @@
         <AppButton to="#features" variant="ghost">Подробнее о событии <Icon name="lucide:arrow-down" class="size-4" /></AppButton>
       </div>
 
-      <div v-reveal="320" class="mt-14 flex flex-wrap gap-7 text-[0.92rem] text-muted">
+      <div v-reveal="320" class="mt-12 flex flex-wrap gap-7 text-[0.92rem] text-muted">
         <span class="inline-flex items-center gap-2"><Icon name="lucide:calendar" class="w-4! h-4! shrink-0  text-primary" />27 ноября 2026</span>
         <span class="inline-flex items-center gap-2"><Icon name="lucide:map-pin" class="w-4! h-4! shrink-0 text-primary" />Офис &laquo;AXENIX&raquo;, Москва, Павелецкая площадь, 2/2, Future Camp, 8 этаж</span>
       </div>
