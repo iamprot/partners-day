@@ -7,7 +7,7 @@ const cards = [
     icon: 'lucide:sprout',
     title: 'Где расти в 2027',
     text: 'Рынки, отрасли и задачи, где мы видим потенциал для новых проектов и развития партнерского бизнеса.',
-    media: { src: 'images/grow.jpg', alt: 'Abstract study of light on a stage', ratio: 'aspect-[2.1/1]', round: 'rounded-t-[25px]', position: 'top' as const },
+    media: { src: 'images/grow.jpg', alt: 'Потенциал роста', ratio: 'aspect-[2.1/1]', round: 'rounded-t-[25px]', position: 'top' as const },
   },
   {
     idx: '02',
@@ -28,7 +28,7 @@ const cards = [
     icon: 'lucide:mic-vocal',
     title: 'Голос партнеров',
     text: 'Опыт, ожидания и взгляд партнеров на рынок: куда двигаться дальше и что стоит изменить в нашей совместной работе.',
-    media: { src: 'images/voice.jpg', alt: 'Abstract evening tones over water', ratio: 'aspect-[2.6/1]', round: 'rounded-b-[25px]', position: 'bottom' as const },
+    media: { src: 'images/voice.jpg', alt: 'Партнеры', ratio: 'aspect-[2.6/1]', round: 'rounded-b-[25px]', position: 'bottom' as const },
   },
 ]
 
