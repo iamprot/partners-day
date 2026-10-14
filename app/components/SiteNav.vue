@@ -26,7 +26,7 @@ onBeforeUnmount(() => window.removeEventListener('scroll', onScroll))
       <BrandMark class="h-12" />
     </a>
 
-    <nav class="hidden gap-7.5 md:flex">
+    <nav class="hidden gap-7.5 lg:flex">
       <a
         v-for="l in links"
         :key="l.to"
