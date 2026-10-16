@@ -19,7 +19,7 @@ import { downloadICS, type IcsEvent, fullDay } from '~/utils/calendar'
                     >Пройти опрос <Icon name="lucide:arrow-right" class="size-4"
                 /></AppButton>
                 <p class="mt-4 text-[0.8rem] text-canvas/55">
-                    После прохождения опроса вы будете автоматически зарегистрированны.
+                    После прохождения опроса вы будете автоматически зарегистрированы.
                 </p>
                         <button
           type="button"

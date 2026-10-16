@@ -53,7 +53,7 @@ export const timeline: TimelineSession[] = [
   {
     id: 'labs',
     time: 'Третья часть',
-    title: 'AI: новые возможности для партнерского бизнеса',
+    title: 'ИИ: новые возможности для партнерского бизнеса',
     tag: 'дискуссия',
     description: 'Как искусственный интеллект меняет разработку и реализацию корпоративных решений, какие роли появляются у интегратора и где возникают новые источники ценности.',
     speaker: { initials: 'PS', name: 'Priya Sundaram', role: 'Developer Relations Lead' },

@@ -12,7 +12,7 @@ function toggle(id: string) {
   <section id="timeline" class="scroll-mt-21.5 py-[clamp(96px,13vh,160px)]">
     <div class="wrap">
       <SectionHeader
-        eyebrow="04 — Как все пройдет 27 ноября"
+        eyebrow="03 — Как все пройдет 27 ноября"
         title="Программа"
         blurb="Программа формируется. Темы и время могут быть скорректированы."
       />
